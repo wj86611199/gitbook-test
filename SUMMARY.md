@@ -1,3 +1,23 @@
 # Summary
 * vue-cli3配置
   -  [分环境打包](vue-cli3/build.md)
+* BISTUDIO3 报表页面
+  -  [主体](report/main.md)
+     -  [布局](report/main.md#布局)
+     -  [控件展示区](report/main.md#控件展示区)
+  -  [导航栏](report/nav.md)
+     * [返回按钮](report/nav.md#返回按钮)
+     * [报表名编辑](report/nav.md#报表名编辑)
+     * [编辑/预览切换](report/nav.md#编辑/预览切换)
+     * [发布](report/nav.md#发布)
+     * [复制](report/nav.md#复制)
+     * [保存](report/nav.md#保存)
+     * [帮助中心](report/nav.md#帮助中心)
+  -  [工具栏](report/tools.md)  
+      * [视图类控件](report/tools.md#视图类控件)
+      * [特殊控件](report/tools.md#特殊控件)
+        - [查询控件](report/tools.md#查询控件)
+  -  [右侧操作栏](report/right.md)
+        * [数据区](report/right.md#数据区)
+        * [样式修改区](report/right.md#样式区)
+        * [高级](report/right.md#高级)
